@@ -3,10 +3,11 @@
 
 /**
  * Adds 1 to number
- * @version 1
+ * @version 1 
  * @param {Number} a - A number.
  */
 function foo(a) {
+    var b = {"teste":3}
     return a+1
 }
 
